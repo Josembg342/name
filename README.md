@@ -53,10 +53,13 @@ Contenido oculto que no se debe mostrar
 </details>
 
 
-La ecuacion de Eintein  $ E = mc^2$
+La ecuación de Eintein  $E = mc^2$
 
 $$
 x = 2^4 * y
 $$
 
 ![Foto1](dibujar-sobre-imagen-r.png)
+![gif1](ungrrr.htm)
+
+
