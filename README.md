@@ -59,3 +59,4 @@ $$
 x = 2^4 * y
 $$
 
+![Foto1](dibujar-sobre-imagen-r.png)
